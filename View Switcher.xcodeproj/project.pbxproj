@@ -54,14 +54,22 @@
 		D30AC9301FD04C86003F25DE /* View Switcher */ = {
 			isa = PBXGroup;
 			children = (
-				D30AC9311FD04C86003F25DE /* AppDelegate.swift */,
 				D30AC9331FD04C86003F25DE /* ViewController.swift */,
 				D30AC9351FD04C86003F25DE /* Main.storyboard */,
-				D30AC9381FD04C87003F25DE /* Assets.xcassets */,
-				D30AC93A1FD04C87003F25DE /* LaunchScreen.storyboard */,
 				D30AC93D1FD04C87003F25DE /* Info.plist */,
+				D30AC9431FD04EDA003F25DE /* Supporting Files */,
 			);
 			path = "View Switcher";
+			sourceTree = "<group>";
+		};
+		D30AC9431FD04EDA003F25DE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				D30AC9311FD04C86003F25DE /* AppDelegate.swift */,
+				D30AC9381FD04C87003F25DE /* Assets.xcassets */,
+				D30AC93A1FD04C87003F25DE /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
