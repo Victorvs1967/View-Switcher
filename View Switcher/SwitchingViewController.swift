@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SwitchingViewController.swift
 //  View Switcher
 //
 //  Created by Victor Smirnov on 30/11/2017.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SwitchingViewController: UIViewController {
 
   override func viewDidLoad() {
     super.viewDidLoad()
